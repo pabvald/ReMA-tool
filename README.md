@@ -1,6 +1,7 @@
 # ReMA Tool
 Interactive Assessment Tool for Gaze-based Machine Learning Models in Information Retrieval
-[They the Demo! 🔗](https://iml.dfki.de/demo/rematool/
+
+[They the Demo! 🚀](https://iml.dfki.de/demo/rematool/)
 
 ## Abstract
 
