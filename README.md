@@ -3,7 +3,6 @@ Interactive Assessment Tool for Gaze-based Machine Learning Models in Informatio
 
 CHIIR '22: Proceedings of the 2022 Conference on Human Information Interaction and RetrievalMarch 2022 | Pages 332–336 | https://doi.org/10.1145/3498366.3505834
 
-[Try the Demo! 🚀](https://iml.dfki.de/demo/rematool/)
 
 ## Abstract
 
