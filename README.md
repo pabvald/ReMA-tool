@@ -10,7 +10,7 @@ Eye movements were shown to be an effective source of implicit relevance feedbac
 
 
 ## About
-Written by **Pablo Valdunciel**, **Shahzad Bhatti**, **Michael Barz** and **Daniel Sonntag** at the Interactive Machine Learning (IML) Department of the German Research Centre for Artificial Intelligence (DFKI).
+Written by **Pablo Valdunciel**, **Omair Shahzad**, **Michael Barz** and **Daniel Sonntag** at the Interactive Machine Learning (IML) Department of the German Research Centre for Artificial Intelligence (DFKI).
 
 ## Citation 
 
